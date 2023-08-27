@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TryReact/static/css/main.536e33e5.css",
+    "main.js": "/TryReact/static/js/main.ed52a727.js",
+    "index.html": "/TryReact/index.html",
+    "main.536e33e5.css.map": "/TryReact/static/css/main.536e33e5.css.map",
+    "main.ed52a727.js.map": "/TryReact/static/js/main.ed52a727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536e33e5.css",
+    "static/js/main.ed52a727.js"
+  ]
+}
